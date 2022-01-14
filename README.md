@@ -1,5 +1,5 @@
 # Finding Land Owners
-QGIS Plugin for find the details of land parcel owners on which the pipeline layer will intersect.
+QGIS Plugin for finding the details of land parcel owners on which the pipeline layer will intersect.
 
 # Demo
 https://youtu.be/-gBSzgNL9lw
